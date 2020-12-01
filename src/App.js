@@ -9,7 +9,7 @@ export default class App extends Component {
       .then(data => {
             return data;
         })
-  }
+      }
 
   render() {
         return null;
